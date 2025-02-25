@@ -6,6 +6,7 @@ PHP
 C#
 Python
 Java
+
 🎨 Front-End Development
 React.js, Next.js
 Tailwind CSS, Bootstrap
@@ -14,21 +15,21 @@ Templating Engines: EJS, Pug
 Node.js, Express.js
 PHP
 RESTful APIs
+
 🗄 Databases & Storage
 SQL Databases: MySQL
 NoSQL Databases: MongoDB
 Database Management Tools: MySQL Workbench, MongoDB Compass
 
+
 ☁️ Cloud & DevOps
 Hosting & Deployment: Vercel, Hostinger VPS
-
 Version Control & CI/CD: Git, GitHub, GitHub Actions
 
 
 🔐 Networking & Security
 Networking: CCNA (Routing & Switching)
 Security & Authentication: Cryptography, JWT, OAuth
-
 
 📬 Connect With Me
 📧 Email: hadi.abdo.kabbani@gmail.com
