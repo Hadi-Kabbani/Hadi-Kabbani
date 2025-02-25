@@ -3,13 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hadi Kabbani | Software Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 650px;
+            margin: auto;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        h3 {
+            color: #34495e;
+            margin-top: 15px;
+        }
+        p {
+            text-align: center;
+            font-size: 14px;
+            color: #555;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px 0;
+            font-size: 14px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        hr {
+            border: 1px solid #ddd;
+            margin: 20px 0;
+        }
+    </style>
 </head>
 <body>
 
-<h1 align="center">🚀 Hadi Kabbani | <i>Software Engineer</i></h1>
+<h1>🚀 Hadi Kabbani</h1>
+<p><i>Software Engineer | Full-Stack Developer</i></p>
 
-<p align="center">
-    💻 <b>Full-Stack Developer</b> | MERN | PHP | MySQL <br>
+<p>
+    💻 <b>MERN | PHP | MySQL</b> <br>
     🛠 <b>Cloud & DevOps</b> | VPS | CI/CD | Hostinger <br>
     📡 <b>Networking & Security</b> | CCNA | Cryptography
 </p>
@@ -20,44 +65,38 @@
 
 <h3>📌 Programming Languages</h3>
 <ul>
-    <li>JavaScript (ES6+)</li>
-    <li>PHP</li>
-    <li>C#</li>
-    <li>Python</li>
-    <li>Java</li>
+    <li>JavaScript (ES6+), PHP, C#, Python, Java</li>
 </ul>
 
 <h3>🎨 Front-End Development</h3>
 <ul>
-    <li>React.js, Next.js</li>
-    <li>Tailwind CSS, Bootstrap</li>
-    <li>Templating Engines: EJS, Pug</li>
+    <li>React.js, Next.js, Tailwind CSS, Bootstrap</li>
+    <li>Templating: EJS, Pug</li>
 </ul>
 
 <h3>🛠 Back-End Development</h3>
 <ul>
-    <li>Node.js, Express.js</li>
-    <li>PHP</li>
+    <li>Node.js, Express.js, PHP</li>
     <li>RESTful APIs</li>
 </ul>
 
 <h3>🗄 Databases & Storage</h3>
 <ul>
-    <li>SQL Databases: MySQL</li>
-    <li>NoSQL Databases: MongoDB</li>
-    <li>Database Management Tools: MySQL Workbench, MongoDB Compass, and phpmyadmin</li>
+    <li>SQL: MySQL</li>
+    <li>NoSQL: MongoDB</li>
+    <li>Tools: MySQL Workbench, MongoDB Compass, phpMyAdmin</li>
 </ul>
 
 <h3>☁️ Cloud & DevOps</h3>
 <ul>
-    <li>Hosting & Deployment: Vercel, Hostinger VPS</li>
-    <li>Version Control & CI/CD: Git, GitHub, GitHub Actions</li>
+    <li>Hosting: Vercel, Hostinger VPS</li>
+    <li>Version Control: Git, GitHub, GitHub Actions</li>
 </ul>
 
 <h3>🔐 Networking & Security</h3>
 <ul>
-    <li>Networking: CCNA (Routing & Switching)</li>
-    <li>Security & Authentication: Cryptography, JWT, OAuth</li>
+    <li>CCNA (Routing & Switching), Cryptography</li>
+    <li>Authentication: JWT, OAuth</li>
 </ul>
 
 <hr>
