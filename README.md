@@ -45,7 +45,7 @@
 <ul>
     <li>SQL Databases: MySQL</li>
     <li>NoSQL Databases: MongoDB</li>
-    <li>Database Management Tools: MySQL Workbench, MongoDB Compass</li>
+    <li>Database Management Tools: MySQL Workbench, MongoDB Compass, and phpmyadmin</li>
 </ul>
 
 <h3>☁️ Cloud & DevOps</h3>
