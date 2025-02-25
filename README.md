@@ -9,7 +9,7 @@
 <h1 align="center">🚀 Hadi Kabbani | <i>Software Engineer</i></h1>
 
 <p align="center">
-    💻 <b>Full-Stack Developer</b> | MERN | PHP | MySQL | MongoDB <br>
+    💻 <b>Full-Stack Developer</b> | MERN | PHP | MySQL <br>
     🛠 <b>Cloud & DevOps</b> | VPS | CI/CD | Hostinger <br>
     📡 <b>Networking & Security</b> | CCNA | Cryptography
 </p>
