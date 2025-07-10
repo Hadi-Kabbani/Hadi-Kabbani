@@ -61,9 +61,6 @@
 <ul style="list-style-type: none; padding-left: 10px;">
     <li style="padding: 4px 0; font-size: 14px;">📧 <b>Email:</b> <a href="mailto:hadi.abdo.kabbani@gmail.com" style="color: #007bff; text-decoration: none; font-weight: bold;">hadi.abdo.kabbani@gmail.com</a></li>
     <li style="padding: 4px 0; font-size: 14px;">💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/hadi-kabbani-a4b296309/" style="color: #007bff; text-decoration: none; font-weight: bold;">Hadi Kabbani</a></li>
-    <li style="padding: 4px 0; font-size: 14px;">📡 <b>GitHub:</b> <a href="https://github.com/Hadi-Kabbani" style="color: #007bff; text-decoration: none; font-weight: bold;">Hadi-Kabbani</a></li>
-    <li style="padding: 4px 0; font-size: 14px;">📘 <b>Facebook:</b> <a href="https://www.facebook.com/hadi.kabbani" style="color: #007bff; text-decoration: none; font-weight: bold;">Hadi Kabbani</a></li>
-    <li style="padding: 4px 0; font-size: 14px;">📷 <b>Instagram:</b> <a href="https://www.instagram.com/hadi_kabany?utm_source=qr&igsh=eTQyOG84N2NhajZx" style="color: #007bff; text-decoration: none; font-weight: bold;">@hadi_kabany</a></li>
 </ul>
 
 <p style="text-align: center; font-size: 14px; color: #555;">🚀 <b>Let’s build something amazing together!</b></p>
